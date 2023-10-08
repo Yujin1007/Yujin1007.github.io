@@ -27,13 +27,19 @@ These are the questions that I am digging these days.
 
 3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?
 
-I am currently a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the amazing supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous vehicles. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
+I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the amazing supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
 
 
 # 🔥 News
 - *Sep. 2023*: &nbsp;🎉🎉 Paper published at electronics journal
 - *Aug. 2023*: &nbsp;🎉🎉 Completed my M.S degree!! 
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
+
+# ✌️ ̆̈Projects 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
+- project description....... 
 
 # 📝 Publications 
 
@@ -44,19 +50,17 @@ I am currently a research scientist at the Korea Institute of Science and Techno
 
 **Yujin Kim**, Dong-Sung Pae, Sun-Ho Jang, Seong-Woo Kang, Myo-Taeg Lim
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *Spring 2018* Scholarship for Excellent Achievement, University Of Seoul. 
-- *Sep. 2018 - Dec. 2022* Full Scholarship for Selected Research Student, Hyundai Motor Company.
-- *May 2022* 10th F1TENTH Autonomous Racing Grand Prix, 3rd Place, ICRA 2022.
-- *Jul. 2018* 2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
-- *Jul. 2017* 14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
+- *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
+- *Sep. 2018 - Dec. 2022,*  Full Scholarship for Selected Research Student, Hyundai Motor Company.
+- *May 2022,*               10th F1TENTH Autonomous Racing Grand Prix, 3rd Place, ICRA 2022.
+- *Jul. 2018,*              2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
+- *Jul. 2017,*              14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
 
 # 📖 Educations
 - *Mar. 2021 - Aug. 2023*, M.S. in Electrical and Computer Engineering, Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
