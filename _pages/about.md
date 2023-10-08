@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest lies in the area of <b>Reinforcement Learning</b>. I study reinforcement learning by applying it to various platforms like autonomous driving, games, and multi-joint robots. Not only do I focus on the applications, but I am also interested in researching <b>human-like reinforcement learning</b> approaches that can leverage better performance from human learning mechanisms.
+My research interest lies in the area of <b>Reinforcement Learning</b>, both practical applications and theoretical perspectives.
+I focus on solving sequential decision-making problems for real-world autonomous learning systems!
+These are the questions that I am digging these days. 
+(1) How can an agent acquire skills with minimal (or without) human-engineered intervention?
+(2) How can an agent acquire general-purpose skills to efficiently solve practical, long-horizon tasks?
+(3) What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?
 
-I am currently a research intern at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the amazing supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous vehicles. I received my B.S. from the University of Seoul. I have interned at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
+I am currently a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the amazing supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous vehicles. I received my B.S. from the University of Seoul. I have interned at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Paper published at electronics journal
-- *2023.08*: &nbsp;🎉🎉 Completed my M.S degree!! 
-- *2022.01*: &nbsp;🎉🎉 Started working at KIST. 
+- *Sep. 2023*: &nbsp;🎉🎉 Paper published at electronics journal
+- *Aug. 2023*: &nbsp;🎉🎉 Completed my M.S degree!! 
+- *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
 # 📝 Publications 
 
@@ -44,18 +49,19 @@ I am currently a research intern at the Korea Institute of Science and Technolog
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Spring 2018* Scholarship for Excellent Achievement, University Of Seoul. 
+- *Sep. 2018 - Dec. 2022* Full Scholarship for Selected Research Student, Hyundai Motor Company.
+- *May 2022* 10th F1TENTH Autonomous Racing Grand Prix, 3rd Place, ICRA 2022.
+- *Jul. 2018* 2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
+- *Jul. 2017* 14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
 
 # 📖 Educations
-- *2017.03 - 2021.02*, B.S. in Electrical and Computer Engineering. University of Seoul. (GPA: 4.0/4.5)
-  - *2019.09 - 2020.12*, Research Scholarship from Hyundai Motor Group.
-- *2021.03 - 2023.08*, M.S. in Electrical and Computer Engineering, Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
-  - *2021.03 - 2022.12*, Research Scholarship from Hyundai Motor Group.
+- *Mar. 2021 - Aug. 2023*, M.S. in Electrical and Computer Engineering, Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
+  - *Mar. 2021 - Dec. 2022*, Research Scholarship from Hyundai Motor Group.
+- *Mar. 2017 - Feb. 2021*, B.S. in Electrical and Computer Engineering. University of Seoul. (GPA: 4.0/4.5)
+  - *Sep. 2019 - Dec. 2020*, Research Scholarship from Hyundai Motor Group.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *Jan. 2023 - now*, [Korea Institute of Science and Technology] (https://eng.kist.re.kr/eng/index.do), Republic of Korea.
+- *Jul. 2019*, [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), Republic of Korea.
