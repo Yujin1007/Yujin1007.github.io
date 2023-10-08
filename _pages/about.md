@@ -40,7 +40,8 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 <div class='paper-box-text' markdown="1">
 Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
 - project description....... 
-
+</div>
+</div>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
