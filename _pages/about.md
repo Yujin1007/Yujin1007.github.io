@@ -36,35 +36,35 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
 # ✌️ ̆̈Projects 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KIST</div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
 - project description....... 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Transformer model from scra! 
+Transformer model from scratch! 
 - project description....... 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Classified Experience Replay with openAI gym highway-env
 - project description....... 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Lane change decision making on crowded highway environment
 - project description....... 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/smp.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Smart Mobility Project - Fail safe system development
 - project description....... 
