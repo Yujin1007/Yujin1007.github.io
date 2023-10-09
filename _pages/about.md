@@ -36,7 +36,7 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
 # ✌️ ̆̈Projects 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/valve.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
 - project description....... 
