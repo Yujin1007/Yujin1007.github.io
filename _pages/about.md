@@ -36,15 +36,43 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
 # ✌️ ̆̈Projects 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/valve.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
 - project description....... 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transformer model from scra! 
+- project description....... 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Classified Experience Replay with openAI gym highway-env
+- project description....... 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Lane change decision making on crowded highway environment
+- project description....... 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/smp.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Smart Mobility Project - Fail safe system development
+- project description....... 
+</div>
+</div>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcement Learning for Autonomous Vehicle using MPC in Highway Situation](https://ieeexplore.ieee.org/abstract/document/9748810)
