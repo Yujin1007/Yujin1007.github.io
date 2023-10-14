@@ -36,10 +36,11 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
 # ✌️ ̆̈Projects 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KIST</div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
 - project description....... 
+- In preparation
 </div>
 </div>
 
@@ -54,6 +55,7 @@ Transformer model from scratch!
 <div class='paper-box-text' markdown="1">
 Classified Experience Replay with openAI gym highway-env
 - project description....... 
+- Under review
 </div>
 </div>
 
@@ -64,10 +66,11 @@ Lane change decision making on crowded highway environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Smart Mobility Project - Fail safe system development
 - project description....... 
+- [Presentation](https://youtu.be/zKZ-OdYeDTw?si=BmTPEP5J4DMhe5em)
 </div>
 </div>
 # 📝 Publications 
@@ -81,8 +84,6 @@ Smart Mobility Project - Fail safe system development
 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
