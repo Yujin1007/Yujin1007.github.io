@@ -25,6 +25,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "Korea Institute of Science and Technology"
   location         : "Seoul, Korea"
+  CV               : "images/myCV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=npVBG5QAAAAJ"
