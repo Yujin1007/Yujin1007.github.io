@@ -9,17 +9,17 @@ main:
   - title: "News"
     url: "/#-news"
 
-  # - title: "Projects"
-  #   url: "/#projects"
+  - title: "Projects"
+    url: "/#-projects"
 
-  # - title: "Publications"
-  #   url: "/#publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-  # - title: "Honors and Awards"
-  #   url: "/#awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  # - title: "Work Experience"
-  #   url: "/#works
+  - title: "Work Experience"
+    url: "/#-work-experience
 
 
 
