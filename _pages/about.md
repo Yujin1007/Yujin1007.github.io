@@ -29,7 +29,7 @@ These are the questions that I am digging these days.
 
 I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - M.S. in Electrical and Computer Engineering, *Mar. 2021 - Aug. 2023*
   - Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
@@ -38,11 +38,14 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
   - University of Seoul. (GPA: 4.0/4.5)
   - Research Scholarship from Hyundai Motor Group, *Sep. 2019 - Dec. 2020*
 
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *Sep. 2023*: &nbsp;🎉🎉 Paper published at electronics journal
 - *Aug. 2023*: &nbsp;🎉🎉 Completed my M.S degree!! 
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
+
+<span class='anchor' id='projects'></span>
 
 # 👩🏼‍💻 ̆̈Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
@@ -109,6 +112,8 @@ Smart Mobility Project - Fail safe system development
 - [Presentation](https://youtu.be/zKZ-OdYeDTw?si=BmTPEP5J4DMhe5em)
 </div>
 </div>
+
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
@@ -140,6 +145,8 @@ Sun-Ho Jang, Woo-Jin Ahn, **Yu-Jin Kim**, Hyung-Gil Hong, Dong-Sung Pae, Myo-Tae
 </div>
 </div>
 
+<span class='anchor' id='awards'></span>
+
 # 🎖 Honors and Awards
 - *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
 - *Sep. 2018 - Dec. 2022,*  Full Scholarship for Selected Research Student, Hyundai Motor Company.
@@ -147,7 +154,7 @@ Sun-Ho Jang, Woo-Jin Ahn, **Yu-Jin Kim**, Hyung-Gil Hong, Dong-Sung Pae, Myo-Tae
 - *Jul. 2018,*              2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
 - *Jul. 2017,*              14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
 
-
+<span class='anchor' id='works'></span>
 
 # 💻 Work Experience
 - *Jan. 2023 - now*, [Korea Institute of Science and Technology] (https://eng.kist.re.kr/eng/index.do), Republic of Korea.
