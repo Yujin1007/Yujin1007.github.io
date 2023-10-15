@@ -48,7 +48,7 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 👩🏼‍💻 ̆̈Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Autonomous Robot Manipulator Operation for Intricate Object Handling
 - ON GOING PROJECT! 
@@ -61,7 +61,7 @@ Autonomous Robot Manipulator Operation for Intricate Object Handling
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Classified Experience Replay
 - Challenge to skewed sub-goal distribution for goal-conditioned RL controller. 
@@ -70,7 +70,7 @@ Classified Experience Replay
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hybrid_highway.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Learning to drive in highway with guided RL controller.
 -Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
@@ -79,7 +79,7 @@ Learning to drive in highway with guided RL controller.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/f1tenth.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/f1tenth.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 F1tenth Virtual Race competition
 - Compete to race with RL controller. 
@@ -89,7 +89,7 @@ F1tenth Virtual Race competition
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Lane change decision making on crowded highway environment
 - Establishing robust statistical criteria for lane change decisions in driving, grounded in human data.
@@ -97,14 +97,14 @@ Lane change decision making on crowded highway environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/transformer.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transformer model from scratch! 
 - Generate Korean-English translator. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Smart Mobility Project - Fail safe system development
 - Development of a fail-safe system for self-driving cars.
@@ -116,7 +116,7 @@ Smart Mobility Project - Fail safe system development
 <!-- <span class='anchor' id='publications'></span> -->
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/hybrid_highway.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcement Learning for Autonomous Vehicle using MPC in Highway Situation](https://ieeexplore.ieee.org/abstract/document/9748810)
@@ -126,7 +126,7 @@ Smart Mobility Project - Fail safe system development
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="../images/hyundai.pdf">Prediction of estimated lane change distance on highway: based on traffic information</a>
@@ -135,7 +135,7 @@ Smart Mobility Project - Fail safe system development
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2023</div><img src='images/stable.PNG' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2023</div><img src='images/stable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stable and Efficient Reinforcement Learning Method for Avoidance Driving of Unmanned Vehicles](https://www.mdpi.com/2079-9292/12/18/3773)
