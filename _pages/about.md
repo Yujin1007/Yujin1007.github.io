@@ -27,7 +27,16 @@ These are the questions that I am digging these days.
 
 3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?
 
-I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the amazing supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
+I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
+
+
+# 📖 Educations
+- M.S. in Electrical and Computer Engineering, *Mar. 2021 - Aug. 2023*
+  - Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
+  - Research Scholarship from Hyundai Motor Group, *Mar. 2021 - Dec. 2022*, 
+- B.S. in Electrical and Computer Engineering, *Mar. 2017 - Feb. 2021*
+  - University of Seoul. (GPA: 4.0/4.5)
+  - Research Scholarship from Hyundai Motor Group, *Sep. 2019 - Dec. 2020*
 
 
 # 🔥 News
@@ -35,41 +44,68 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 - *Aug. 2023*: &nbsp;🎉🎉 Completed my M.S degree!! 
 - *Jan. 2022*: &nbsp;🎉🎉 Started working at KIST. 
 
-# ✌️ ̆̈Projects 
+# 👩🏼‍💻 ̆̈Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Development of Autonomous Robot Manipulator Operation for Intricate Object Handling 
-- project description....... 
-- In preparation
+Autonomous Robot Manipulator Operation for Intricate Object Handling
+- ON GOING PROJECT! 
+  - Challenge to long-horizon manipulator operation using reinforcement learing. 
+  - Develop skills for operating equipments (eg. valve, switch, gear lever..) at industial sites with manipulator. 
+  - Learn skills with minimize human-engineered features.
+  - Learn skills without human intervention to enhance the autonomy of our robot manipulator.
+  - TQC implementation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Transformer model from scratch! 
-- project description....... 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Classified Experience Replay with openAI gym highway-env
-- project description....... 
-- Under review
+Classified Experience Replay
+- Challenge to skewed sub-goal distribution for goal-conditioned RL controller. 
+- TD3 implementation. 
+- Paper under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Learning to drive in highway with guided RL controller.
+-Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
+- DDPG implementation.
+- Paper published at ICEIC, 2022 (oral).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/f1tenth.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+F1tenth Virtual Race competition
+- Compete to race with RL controller. 
+- Participated in IROS, 2021 and ICRA, 2022
+- Won 3rd prize
+- PPO, DQN implementation.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Lane change decision making on crowded highway environment
-- project description....... 
+- Establishing robust statistical criteria for lane change decisions in driving, grounded in human data.
+- Poster session at EMECS, 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/transformer.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transformer model from scratch! 
+- Generate Korean-English translator. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMP 2020</div><img src='images/smp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Smart Mobility Project - Fail safe system development
-- project description....... 
+- Development of a fail-safe system for self-driving cars.
+- Utilization of V2V sensor data for operation during sensor failure.
 - [Presentation](https://youtu.be/zKZ-OdYeDTw?si=BmTPEP5J4DMhe5em)
 </div>
 </div>
@@ -85,6 +121,25 @@ Smart Mobility Project - Fail safe system development
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="../images/hyundai.pdf">Prediction of estimated lane change distance on highway: based on traffic information</a>
+**Yujin Kim**, Seok Youl Yang, Myo-Taeg Lim
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2023</div><img src='images/stable.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stable and Efficient Reinforcement Learning Method for Avoidance Driving of Unmanned Vehicles](https://www.mdpi.com/2079-9292/12/18/3773)
+
+Sun-Ho Jang, Woo-Jin Ahn, **Yu-Jin Kim**, Hyung-Gil Hong, Dong-Sung Pae, Myo-Taeg Lim
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
 - *Sep. 2018 - Dec. 2022,*  Full Scholarship for Selected Research Student, Hyundai Motor Company.
@@ -92,11 +147,6 @@ Smart Mobility Project - Fail safe system development
 - *Jul. 2018,*              2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
 - *Jul. 2017,*              14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
 
-# 📖 Educations
-- *Mar. 2021 - Aug. 2023*, M.S. in Electrical and Computer Engineering, Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
-  - *Mar. 2021 - Dec. 2022*, Research Scholarship from Hyundai Motor Group.
-- *Mar. 2017 - Feb. 2021*, B.S. in Electrical and Computer Engineering. University of Seoul. (GPA: 4.0/4.5)
-  - *Sep. 2019 - Dec. 2020*, Research Scholarship from Hyundai Motor Group.
 
 
 # 💻 Work Experience
