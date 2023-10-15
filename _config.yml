@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "YujinKim :)"
+title                    : "Yujin :)"
 description              : "Researcher at KIST"
 repository               : "Yujin/Yujin1007.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yujin Kim"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Korea Institute of Science and Technology"
   location         : "Seoul, Korea"
-  CV               : "images/myCV.pdf"
+  cv               : "myCV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=npVBG5QAAAAJ"
