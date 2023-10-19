@@ -52,9 +52,9 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 <div class='paper-box-text' markdown="1">
 Autonomous Robot Manipulator Operation for Intricate Object Handling
 - ON GOING PROJECT! 
-  - Challenge to long-horizon manipulator operation using reinforcement learing. 
-  - Develop skills for operating equipments (eg. valve, switch, gear lever..) at industial sites with manipulator. 
-  - Learn skills with minimize human-engineered features.
+  - Challenge to long-horizon manipulator operation using reinforcement learning.
+  - Develop skills for operating equipment (e.g., valve, switch, gear lever...) at industrial sites with a manipulator.
+  - Learn skills while minimizing human-engineered features.
   - Learn skills without human intervention to enhance the autonomy of our robot manipulator.
   - TQC implementation.
 </div>
@@ -116,6 +116,16 @@ Smart Mobility Project - Fail safe system development
 <!-- <span class='anchor' id='publications'></span> -->
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Classified Experience Replay: The Off-Policy Reinforcement Learning Method and Dynamic Trajectory Planning for Autonomous Driving
+- Under Review
+
+**Yujin Kim**, Sun-Ho Jang, Woo-Jin Ahn, Myo-Taeg Lim, Dong-Sung Pae
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEIC 2022</div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -130,6 +140,7 @@ Smart Mobility Project - Fail safe system development
 <div class='paper-box-text' markdown="1">
 
 <a href="../images/hyundai.pdf">Prediction of estimated lane change distance on highway: based on traffic information</a>
+
 **Yujin Kim**, Seok Youl Yang, Myo-Taeg Lim
 
 </div>
@@ -157,5 +168,5 @@ Sun-Ho Jang, Woo-Jin Ahn, **Yu-Jin Kim**, Hyung-Gil Hong, Dong-Sung Pae, Myo-Tae
 <!-- <span class='anchor' id='works'></span> -->
 
 # 💻 Work Experience
-- *Jan. 2023 - now*, [Korea Institute of Science and Technology] (https://eng.kist.re.kr/eng/index.do), Republic of Korea.
+- *Jan. 2023 - now*, [Korea Institute of Science and Technology](https://eng.kist.re.kr/eng/index.do), Republic of Korea.
 - *Jul. 2019*, [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), Republic of Korea.
