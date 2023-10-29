@@ -136,7 +136,7 @@ Classified Experience Replay: The Off-Policy Reinforcement Learning Method and D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMECS 2023</div><img src='images/lanechange2.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="../images/hyundai.pdf">Prediction of estimated lane change distance on highway: based on traffic information</a>
