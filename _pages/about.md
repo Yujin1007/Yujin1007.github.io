@@ -89,7 +89,7 @@ F1tenth Virtual Race competition
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pallet.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pallet_loading.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Pallet loading problem with robot manipulator
 - Employed decision-making techniques using Reinforcement Learning (RL) to optimize box layout on pallets for varying box sizes.
