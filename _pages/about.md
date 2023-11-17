@@ -56,7 +56,7 @@ Autonomous Robot Manipulator Operation for Intricate Object Handling
   - Develop skills for operating equipment (e.g., valve, switch, gear lever...) at industrial sites with a manipulator.
   - Learn skills while minimizing human-engineered features.
   - Learn skills without human intervention to enhance the autonomy of our robot manipulator.
-  - TQC implementation.
+  - Implemented TQC.
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Autonomous Robot Manipulator Operation for Intricate Object Handling
 <div class='paper-box-text' markdown="1">
 Classified Experience Replay
 - Challenge to skewed sub-goal distribution for goal-conditioned RL controller. 
-- TD3 implementation. 
+- Implemented TQC. 
 - Paper under review
 </div>
 </div>
@@ -74,7 +74,7 @@ Classified Experience Replay
 <div class='paper-box-text' markdown="1">
 Learning to drive in highway with guided RL controller.
 -Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
-- DDPG implementation.
+- Implemented DDPG.
 - Paper published at ICEIC, 2022 (oral).
 </div>
 </div>
@@ -85,7 +85,17 @@ F1tenth Virtual Race competition
 - Compete to race with RL controller. 
 - Participated in IROS, 2021 and ICRA, 2022
 - Won 3rd prize
-- PPO, DQN implementation.
+- Implemented PPO, DQN.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pallet.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Pallet loading problem with robot manipulator
+- Employed decision-making techniques using Reinforcement Learning (RL) to optimize box layout on pallets for varying box sizes.
+- Implemented PPO.
+- Executed pallet loading operations based on the optimized layout using the Doosan Robotics M1013 robot manipulator.
+- Successfully applied this solution in a real-world scenario.
 </div>
 </div>
 
