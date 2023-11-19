@@ -16,19 +16,20 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span style="font-size: 12px;">
+<span style="font-size: 25px;">
 My research interest lies in the area of <b>Reinforcement Learning</b>, both practical applications and theoretical perspectives.
 I focus on solving sequential decision-making problems for real-world autonomous learning systems!
-These are the questions that I am digging these days. 
+These are the questions that I am digging these days.</span> 
 
-1️⃣ How can an agent acquire skills with minimal (or without) human-engineered intervention?
-
-2️⃣ How can an agent acquire general-purpose skills to efficiently solve practical, long-horizon tasks?
-
-3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?
+<span style="font-size: 25px;">
+1️⃣ How can an agent acquire skills with minimal (or without) human-engineered intervention?</span>
+<span style="font-size: 25px;">
+2️⃣ How can an agent acquire general-purpose skills to efficiently solve practical, long-horizon tasks?</span>
+<span style="font-size: 25px;">
+3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?</span>
 
 I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
-</span>
+
 <!-- <span class='anchor' id='educations'></span> -->
 # 📖 Educations
 - M.S. in Electrical and Computer Engineering, *Mar. 2021 - Aug. 2023*
