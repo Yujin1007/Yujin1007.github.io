@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<span style="font-size: 12px;">
 My research interest lies in the area of <b>Reinforcement Learning</b>, both practical applications and theoretical perspectives.
 I focus on solving sequential decision-making problems for real-world autonomous learning systems!
 These are the questions that I am digging these days. 
@@ -28,7 +28,7 @@ These are the questions that I am digging these days.
 3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?
 
 I am a research scientist at the Korea Institute of Science and Technology [(KIST)]( https://eng.kist.re.kr/eng/index.do) under the supervision of a senior researcher, [Yisoo Lee](https://sites.google.com/view/kist-arc/home/people?authuser=0). Before that, I received my M.S. from Korea University under the supervision of Professor [Myo-Taeg Lim](http://cml.korea.ac.kr/), where I studied reinforcement learning and path planning for autonomous driving. I received my B.S. from the University of Seoul. I finished internship at Hyundai Motor Group, working on developing autonomous driving decision-making and control.
-
+</span>
 <!-- <span class='anchor' id='educations'></span> -->
 # 📖 Educations
 - M.S. in Electrical and Computer Engineering, *Mar. 2021 - Aug. 2023*
@@ -73,7 +73,7 @@ Classified Experience Replay
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Learning to drive in highway with guided RL controller.
--Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
+- Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
 - Implemented DDPG.
 - Paper published at ICEIC, 2022 (oral).
 </div>
