@@ -91,7 +91,7 @@ Learning to drive in highway with guided RL controller.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/f1tenth.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/f1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 F1tenth Virtual Race competition
 - Compete to race with RL controller. 
