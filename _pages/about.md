@@ -49,6 +49,8 @@ I am a research scientist at the Korea Institute of Science and Technology [(KIS
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 👩🏼‍💻 ̆̈Projects
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Autonomous Robot Manipulator Operation for Intricate Object Handling
@@ -61,6 +63,15 @@ Autonomous Robot Manipulator Operation for Intricate Object Handling
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/door.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Dual-Armed Mobile Manipulator Door Traversal
+- ON GOING PROJECT! 
+  - Address challenges of door traversal motion planning
+  - Unified framework for door traversal, from approaching, opening, passing through, and closing the door with dual-armed mobile manipulator  
+  - Decision making for optimal contact point planning with RL.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
