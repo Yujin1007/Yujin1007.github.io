@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin :)"
-description              : "Researcher at KIST"
+description              : "PhD at Cornell CS"
 repository               : "Yujin/Yujin1007.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujin Kim"
   avatar           : "images/profile.png"
-  bio              : "Korea Institute of Science and Technology"
+  bio              : "Cornell University"
   location         : "Seoul, Korea"
   cv               : "CV.pdf"
   employer         :
