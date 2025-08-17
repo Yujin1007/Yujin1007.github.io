@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin :)"
-description              : "PhD at Cornell CS"
+description              : "PhD Student at Cornell CS"
 repository               : "Yujin/Yujin1007.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yujin Kim"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpeg"
   bio              : "Cornell University"
   location         : "Seoul, Korea"
   cv               : "CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yujin1004k@gmail.com"
+  email            : "yk826@cornell.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

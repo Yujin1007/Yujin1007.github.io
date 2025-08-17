@@ -18,22 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <br><br>
-My research interest lies in the area of <b>Reinforcement Learning</b>, both practical applications and theoretical perspectives.
-I focus on solving sequential decision-making problems for real-world autonomous learning systems!
-These are the questions that I am digging these days.
+I study methods at the interface of machine learning and control, including reinforcement learning, imitation learning, dynamic mode decomposition, and model predictive control. My main interest is in approaches that build on mathematical structure and optimization principles, enabling both interpretability and efficiency in robotic decision-making. My research aims to develop interpretable and theoretically grounded methods for decision-making in partially observable, real-world systems
 
-<span style="font-size: 15px;">1️⃣ How can an agent acquire skills with minimal (or without) human-engineered intervention?</span>
-
-<span style="font-size: 15px;">2️⃣ How can an agent acquire general-purpose skills to efficiently solve practical, long-horizon tasks?</span>
-
-<span style="font-size: 15px;">3️⃣ What are the key differences that distinguish AI agents from humans in the process of learning new skills? What aspects of human learning can AI systems leverage?</span>
-I am a Ph.D. student in Computer Science at Cornell University, working with [Sanjiban Choudhury](https://portal.cs.cornell.edu/). Before joining Cornell, I was a research scientist at the Korea Institute of Science and Technology (KIST). I received my M.S. from Korea University and my B.S. from the University of Seoul.
+I am a Ph.D. student in Computer Science at Cornell University, working with [Sarah Dean](https://sdean.website/). Before joining Cornell, I was a research scientist at the Korea Institute of Science and Technology (KIST). I received my M.S. from Korea University and my B.S. from the University of Seoul.
 
 <!-- <span class='anchor' id='educations'></span> -->
 # 📖 Educations
-- Ph.D. in Computer Science, *Aug. 2024 - Present*
+- Ph.D. Student in Computer Science, *Aug. 2024 - Present*
   - Cornell University
-  - Advisor: [Sanjiban Choudhury](https://portal.cs.cornell.edu/)
+  - Advisor: [Sarah Dean](https://sdean.website/)
 - M.S. in Electrical and Computer Engineering, *Mar. 2021 - Aug. 2023*
   - Major : Control, Robotics and Systems. Korea University (GPA: 4.39/4.5)
   - Research Scholarship from Hyundai Motor Group, *Mar. 2021 - Dec. 2022*, 
