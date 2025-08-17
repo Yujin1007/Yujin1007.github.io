@@ -47,7 +47,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/alltasks.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Distilling Realizable Students from Unrealizable Teachers
+[Distilling Realizable Students from Unrealizable Teachers](https://arxiv.org/abs/2505.09546)
 <!-- [Autonomous Robot Manipulator Operation for Intricate Object Handling] (https://arxiv.org/abs/2412.08522) -->
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Policy distillation under asymmetric imitation learning setting. 
@@ -59,7 +59,7 @@ Distilling Realizable Students from Unrealizable Teachers
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/valve.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Autonomous Robot Manipulator Operation for Intricate Object Handling] (https://arxiv.org/abs/2412.08522)
+[Subspace-wise Hybrid RL for Articulated Object Manipulation](https://arxiv.org/abs/2412.08522)
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Develop skills for operating equipment (e.g., valve, switch, gear lever...) at industrial sites with a manipulator.
 - Learn skills while minimizing human-engineered features using reinforcement learning.
@@ -69,7 +69,7 @@ Distilling Realizable Students from Unrealizable Teachers
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/door.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Dual-Armed Mobile Manipulator Door Traversal](https://openreview.net/forum?id=A8MTF3nTO5)
+[Whole-body motion planning of dual-arm mobile manipulator for compensating for door reaction force](https://openreview.net/forum?id=A8MTF3nTO5)
   - Address challenges of door traversal motion planning
   - Unified framework for door traversal, from approaching, opening, passing through, and closing the door with dual-armed mobile manipulator  
   - Decision making for optimal contact point planning with RL.
@@ -79,7 +79,7 @@ Distilling Realizable Students from Unrealizable Teachers
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cer_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Classified Experience Replay](https://www.mdpi.com/2076-3417/14/12/5213)
+[A reinforcement learning approach to dynamic trajectory optimization with consideration of imbalanced sub-goals in self-driving vehicles](https://www.mdpi.com/2076-3417/14/12/5213)
 - Challenge to skewed sub-goal distribution for goal-conditioned RL controller. 
 - Enable adaptive sub-goal planning and efficient reward learning via MPC-synchronized rewards.
 </div>
@@ -87,7 +87,7 @@ Distilling Realizable Students from Unrealizable Teachers
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hybrid_highway.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Learning to drive in highway with guided RL controller](https://ieeexplore.ieee.org/abstract/document/9748810).
+[Reinforcement Learning for Autonomous Vehicle using MPC in Highway Situation](https://ieeexplore.ieee.org/abstract/document/9748810).
 - Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
 <!-- - Implemented DDPG.
 - Paper published at ICEIC, 2022 (oral). -->
