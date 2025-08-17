@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <br><br>
-I study methods at the interface of machine learning and control, including reinforcement learning, imitation learning, dynamic mode decomposition, and model predictive control. My main interest is in approaches that build on mathematical structure and optimization principles, enabling both interpretability and efficiency in robotic decision-making. My research aims to develop interpretable and theoretically grounded methods for decision-making in partially observable, real-world systems
+I study methods at the interface of machine learning and control, including reinforcement learning, imitation learning, model predictive control and dynamic mode decomposition. My main interest is in approaches that build on mathematical structure and optimization principles, enabling both interpretability and efficiency in decision-making and control. My research aims to develop interpretable and theoretically grounded methods for decision-making in partially observable, real-world systems.
 
 I am a Ph.D. student in Computer Science at Cornell University, working with [Sarah Dean](https://sdean.website/). Before joining Cornell, I was a research scientist at the Korea Institute of Science and Technology (KIST). I received my M.S. from Korea University and my B.S. from the University of Seoul.
 
