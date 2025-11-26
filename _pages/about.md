@@ -44,7 +44,26 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 📝 Publications 
-
+<div class='paper-box'><div class='paper-box-image'><div><bi src='images/recon_every.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition](http://arxiv.org/abs/2511.20612)
+- Proposes a probabilistic DMD–Neural ODE model that reconstructs continuous spatiotemporal fields from only 10% sparse observations with uncertainty quantification. 
+- Recovers interpretable Koopman modes and continuous-time eigenvalues, learns distributions over dynamics across realizations.
+- Submitted to L4DC 2026
+<!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mppi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Single-Instance Sampling for Computationally Efficient and Accurate Real-Time Task Space MPPI Control](https://ieeexplore.ieee.org/document/11219213)
+<!-- [Autonomous Robot Manipulator Operation for Intricate Object Handling] (https://arxiv.org/abs/2412.08522) -->
+<!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
+- Real-time MPPI controller that achieves high-frequency task-space manipulation by redesigning sampling and horizon structures. 
+- Establish that constant-perturbation rollouts remain theoretically compatible with MPPI weighting.
+- Published in the Proceedings of IEEE Transactions on Robotics
+<!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/alltasks.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Distilling Realizable Students from Unrealizable Teachers](https://arxiv.org/abs/2505.09546)
@@ -52,7 +71,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Policy distillation under asymmetric imitation learning setting. 
 - Propose two new IL/RL algorithms robust to state aliasing.
-- Submitted to IROS 2025
+- Published in the Proceedings of IROS 2025
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
