@@ -44,7 +44,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><bi src='images/recon_every.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/recon_every.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition](http://arxiv.org/abs/2511.20612)
 - Proposes a probabilistic DMD–Neural ODE model that reconstructs continuous spatiotemporal fields from only 10% sparse observations with uncertainty quantification. 
