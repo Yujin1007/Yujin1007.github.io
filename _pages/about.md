@@ -208,9 +208,9 @@ Sun-Ho Jang, Woo-Jin Ahn, **Yu-Jin Kim**, Hyung-Gil Hong, Dong-Sung Pae, Myo-Tae
 # 🎖 Honors and Awards
 - *2025*                    IROS-SDC Travel Award.
 - *2024*                    Student Travel Grant, ICRA 2024 (MOMA.v2 Workshop).
-- *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
 - *Sep. 2018 - Dec. 2022,*  Full Scholarship for Selected Research Student, Hyundai Motor Company.
 - *May 2022,*               10th F1TENTH Autonomous Racing Grand Prix, 3rd Place, ICRA 2022.
+- *Spring 2018,*            Scholarship for Excellent Achievement, University Of Seoul. 
 - *Jul. 2018,*              2018 Intelligent Model Car Competition, 3rd Place, Hanyang University. 
 - *Jul. 2017,*              14th Microrobot Competition, Special Award for Women Engineer, Dankook University.
 
