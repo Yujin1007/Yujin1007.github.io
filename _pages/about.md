@@ -49,7 +49,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 [Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition](http://arxiv.org/abs/2511.20612)
 - Proposes a probabilistic DMD–Neural ODE model that reconstructs continuous spatiotemporal fields from only 10% sparse observations with uncertainty quantification. 
 - Recovers interpretable Koopman modes and continuous-time eigenvalues, learns distributions over dynamics across realizations.
-- Submitted to L4DC 2026
+- Submitted to L4DC 2026, [project website](https://sdean-group.github.io/Stochastic-NODE-DMD/)
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
@@ -61,7 +61,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Real-time MPPI controller that achieves high-frequency task-space manipulation by redesigning sampling and horizon structures. 
 - Establish that constant-perturbation rollouts remain theoretically compatible with MPPI weighting.
-- Published in the Proceedings of IEEE Transactions on Robotics
+- Published in the Proceedings of IEEE Transactions on Robotics [video](https://www.youtube.com/watch?v=lqLPyxnlV5k)
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
@@ -73,7 +73,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Policy distillation under asymmetric imitation learning setting. 
 - Propose two new IL/RL algorithms robust to state aliasing.
-- Published in the Proceedings of IROS 2025
+- Published in the Proceedings of IROS 2025, [project website](https://portal-cornell.github.io/CritiQ_ReTRy/)
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
