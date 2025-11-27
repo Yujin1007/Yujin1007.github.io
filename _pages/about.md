@@ -53,6 +53,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Single-Instance Sampling for Computationally Efficient and Accurate Real-Time Task Space MPPI Control](https://ieeexplore.ieee.org/document/11219213)
@@ -64,6 +65,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/alltasks.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Distilling Realizable Students from Unrealizable Teachers](https://arxiv.org/abs/2505.09546)
