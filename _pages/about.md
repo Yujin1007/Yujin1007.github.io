@@ -84,6 +84,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Develop skills for operating equipment (e.g., valve, switch, gear lever...) at industrial sites with a manipulator.
 - Learn skills while minimizing human-engineered features using reinforcement learning.
+- Submitted to ICRA 2026
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
@@ -94,6 +95,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
   - Address challenges of door traversal motion planning
   - Unified framework for door traversal, from approaching, opening, passing through, and closing the door with dual-armed mobile manipulator  
   - Decision making for optimal contact point planning with RL.
+  - Presented in ICRA 2025 workshop
   <!-- - [Paper](https://openreview.net/forum?id=A8MTF3nTO5) publishsed at ICRA 2024: 2nd Workshop on Mobile Manipulation and Embodied Intelligence (MOMA.v2) -->
 </div>
 </div>
@@ -103,6 +105,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 [A reinforcement learning approach to dynamic trajectory optimization with consideration of imbalanced sub-goals in self-driving vehicles](https://www.mdpi.com/2076-3417/14/12/5213)
 - Challenge to skewed sub-goal distribution for goal-conditioned RL controller. 
 - Enable adaptive sub-goal planning and efficient reward learning via MPC-synchronized rewards.
+- Published in the Proceedings of Applied Sciences
 </div>
 </div>
 
@@ -110,6 +113,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <div class='paper-box-text' markdown="1">
 [Reinforcement Learning for Autonomous Vehicle using MPC in Highway Situation](https://ieeexplore.ieee.org/abstract/document/9748810).
 - Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
+- Published in the Proceedings of ICEIC 2022
 <!-- - Implemented DDPG.
 - Paper published at ICEIC, 2022 (oral). -->
 </div>
