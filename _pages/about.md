@@ -114,8 +114,6 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 [Reinforcement Learning for Autonomous Vehicle using MPC in Highway Situation](https://ieeexplore.ieee.org/abstract/document/9748810).
 - Addresses the challenge of reward shaping for continuous RL controllers by using MPC reference.
 - Published in the Proceedings of ICEIC 2022
-<!-- - Implemented DDPG.
-- Paper published at ICEIC, 2022 (oral). -->
 </div>
 </div>
 
