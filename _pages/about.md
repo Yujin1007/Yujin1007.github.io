@@ -61,7 +61,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Real-time MPPI controller that achieves high-frequency task-space manipulation by redesigning sampling and horizon structures. 
 - Establish that constant-perturbation rollouts remain theoretically compatible with MPPI weighting.
-- Published in the Proceedings of IEEE Transactions on Robotics [video](https://www.youtube.com/watch?v=lqLPyxnlV5k)
+- Published in the Proceedings of IEEE Transactions on Robotics, [supplementary video](https://www.youtube.com/watch?v=lqLPyxnlV5k)
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
