@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <br><br>
-I study methods at the interface of machine learning and control, including reinforcement learning, imitation learning, model predictive control and dynamic mode decomposition. My main interest is in approaches that build on mathematical structure and optimization principles, enabling both interpretability and efficiency in decision-making and control. My research aims to develop interpretable and theoretically grounded methods for decision-making in partially observable, real-world systems.
+I study methods at the interface of machine learning and control, including reinforcement learning, imitation learning, model predictive control and system identification. My main interest is in approaches that build on mathematical structure and optimization principles, enabling both interpretability and efficiency in decision-making and control. My research aims to develop interpretable and theoretically grounded methods for decision-making in partially observable, real-world systems.
 
 I am a Ph.D. student in Computer Science at Cornell University, working with [Sarah Dean](https://sdean.website/). Before joining Cornell, I was a research scientist at the Korea Institute of Science and Technology (KIST). I received my M.S. from Korea University and my B.S. from the University of Seoul.
 
@@ -44,12 +44,21 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rematch' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mind the Residual Gap: Probabilistic Downscaling under Real-World Bias](https://arxiv.org/abs/2606.30821)
+- Identifies residual target misspecification as a fundamental source of under-dispersion in mean–residual probabilistic downscaling under real-world bias.
+- Proposes ReMatch, combining deterministic mean regression with residual diffusion and optimal-transport-based residual distribution matching.
+- In publication.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/recon_every.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition](http://arxiv.org/abs/2511.20612)
+[Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition](https://proceedings.mlr.press/v331/kim26b.html)
 - Proposes a probabilistic DMD–Neural ODE model that reconstructs continuous spatiotemporal fields from only 10% sparse observations with uncertainty quantification. 
 - Recovers interpretable Koopman modes and continuous-time eigenvalues, learns distributions over dynamics across realizations.
-- Submitted to L4DC 2026, [project website](https://sdean-group.github.io/Stochastic-NODE-DMD/)
+- Published in the Proceedings of L4DC 2026, [project website](https://sdean-group.github.io/Stochastic-NODE-DMD/)
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
@@ -84,7 +93,6 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Develop skills for operating equipment (e.g., valve, switch, gear lever...) at industrial sites with a manipulator.
 - Learn skills while minimizing human-engineered features using reinforcement learning.
-- Submitted to ICRA 2026
 <!-- - Learn skills without human intervention to enhance the autonomy of our robot manipulator. -->
 </div>
 </div>
