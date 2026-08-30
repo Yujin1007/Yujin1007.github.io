@@ -44,7 +44,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 <!-- <span class='anchor' id='projects'></span> -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rematch' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rematch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mind the Residual Gap: Probabilistic Downscaling under Real-World Bias](https://arxiv.org/abs/2606.30821)
 - Identifies residual target misspecification as a fundamental source of under-dispersion in mean–residual probabilistic downscaling under real-world bias.
