@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <br><br>
-I design machine learning algorithms for decision-making and control in real-world systems by finding where an existing framework breaks down and building algorithms to fix it, in problems ranging from robotics applications to climate modeling. I'm currently interested in adaptive policies that let control algorithms respond quickly when dynamics shift, from simulation to the real world and beyond. 
+I design machine learning algorithms for decision-making and control in real-world systems by finding where an existing framework breaks down and building algorithms to fix it, in problems ranging from robotics applications to climate modeling. One direction I'm currently excited about: adaptive RL policies that let control algorithms respond quickly when dynamics shift, from simulation to the real world.
 
 I am a Ph.D. student in Computer Science at Cornell University, working with [Sarah Dean](https://sdean.website/). Before joining Cornell, I was a research scientist at the Korea Institute of Science and Technology (KIST). I received my M.S. from Korea University and my B.S. from the University of Seoul.
 
