@@ -77,7 +77,7 @@ I am a Ph.D. student in Computer Science at Cornell University, working with [Sa
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/alltasks.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Distilling Realizable Students from Unrealizable Teachers](https://arxiv.org/abs/2505.09546)
+[Distilling Realizable Students from Unrealizable Teachers](../images/distill.pdf)
 <!-- [Autonomous Robot Manipulator Operation for Intricate Object Handling] (https://arxiv.org/abs/2412.08522) -->
 <!-- - Challenge to long-horizon manipulator operation using reinforcement learning. -->
 - Policy distillation under asymmetric imitation learning setting. 
